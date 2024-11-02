@@ -1,6 +1,11 @@
 # Pagination
 vue 分页组件，实现效果：首/尾页快捷跳转，自动省略号
 
+# 效果
+![1](https://github.com/Empty-57/Pagination/blob/main/1.png)
+![2](https://github.com/Empty-57/Pagination/blob/main/2.png)
+![3](https://github.com/Empty-57/Pagination/blob/main/3.png)
+
 默认使用了`Tailwind CSS`，可以自行更改样式，使用时候只需传入`current`（当前页）和`pageLen`（总页数）。
 
 `pageAdd`,`pageDec`,`pageTo`可在父组件自行定义。
